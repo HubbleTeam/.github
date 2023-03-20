@@ -9,5 +9,5 @@ Nous sommes heureux de vous présenter Hubble, notre fierté et notre source de 
 
 
 
-#Description provided by ChatGPT with the following prompt :
+# Description provided by ChatGPT with the following prompt :
 J'ai besoin d'une page d'introduction pour un projet nommé Hubble, c'est une PWA qui sert à afficher l'emploi du temps des élèves sur toutes les plateformes et de manière fiable. Cependant j'aimerai que tu tacle le projet constamment dans cette description notamment en citant nos compétence désastreuse en javascript ou encore notre organisation terrible sans oublier les services workers qui ne marchent jamais. Ce projet est mon projet et le but de cette description est de faire rire le lecteur, un peu d'autodérison ne ferait pas de mal.
