@@ -1,5 +1,5 @@
-# Bienvenue sur la page d'introduction du projet Hubble, 
-Où nous avons rassemblé toutes nos compétences désastreuses en JavaScript pour créer une Progressive Web App (PWA) qui devrait afficher votre emploi du temps étudiant de manière fiable sur toutes les plateformes.
+# Hubble :
+Bienvenue sur la page d'introduction du projet Hubble, où nous avons rassemblé toutes nos compétences désastreuses en JavaScript pour créer une Progressive Web App (PWA) qui devrait afficher votre emploi du temps étudiant de manière fiable sur toutes les plateformes.
 
 Nous avons travaillé dur pour concevoir une application qui ne fonctionne pas correctement la plupart du temps, et nous sommes fiers de dire que nous avons réussi à atteindre cet objectif avec brio. Nos services workers, qui sont censés améliorer les performances de l'application, ne fonctionnent jamais, mais au moins ils ajoutent une touche de mystère à votre expérience utilisateur.
 
